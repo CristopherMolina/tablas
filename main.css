@@ -1,0 +1,17 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: blanchedalmond;
+}
+
+table{
+    width: 100%;
+}
+
+td,th{
+    border: 2px solid yellow;
+}
+
+body{
+    background-color: brown;
+}
